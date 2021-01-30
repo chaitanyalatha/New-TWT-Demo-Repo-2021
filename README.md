@@ -1,7 +1,7 @@
 # New-TWT-Demo-Repo-2021
 Demo repo
 
-# About GitHub ?
+# About GitHub
 Git is an open source distributed _version control system_ designed to handle small to very large projects with speed and efficiency.
 
 **Main Terms**
