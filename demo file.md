@@ -1,4 +1,8 @@
-# Heading 1
+---
+title: GitHub Demo
+--
+
+# {{ page.title }}
 
 ## Heading 2
 
