@@ -1,6 +1,6 @@
 ---
 title: GitHub Demo
---
+---
 
 # {{page.title}}
 
