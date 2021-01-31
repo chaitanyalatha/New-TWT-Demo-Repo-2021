@@ -13,3 +13,5 @@ Git is an open source distributed _version control system_ designed to handle sm
   2. Pull request
   3. Clone
   4. Fork
+  5. Push
+  6. Create personal access token
