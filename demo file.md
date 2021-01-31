@@ -2,7 +2,7 @@
 title: GitHub Demo
 --
 
-# {{ page.title }}
+# {{page.title}}
 
 ## Heading 2
 
