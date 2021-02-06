@@ -16,3 +16,11 @@ Git is an open source distributed _version control system_ designed to handle sm
   4. Fork
   5. Push
   6. Create personal access token
+
+Data file Contents:
+
+{% for item in site.data.demo %}
+
+The country needs {{ item.name }} created
+
+{ % endfor % }
