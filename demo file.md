@@ -5,11 +5,13 @@ title: Rising Sun
 
 # {{page.title}}
 
-## Heading 2
+Show the time: {{ site.when }}
 
-_Clone & Push Steps_
+Data file contents:
 
-- Create personal access token
-- Clone repository to local machine
-- Do local changes
-- Push local changes to the remote repository
+{% for item in site.data.demo %}
+
+
+{{ site.data.demo }}
+
+{% endfor %}
