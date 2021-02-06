@@ -23,4 +23,4 @@ Data file Contents:
 
 The country needs {{ item.name }} created
 
-{ % endfor % }
+{% endfor %}
