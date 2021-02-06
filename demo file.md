@@ -1,5 +1,6 @@
 ---
-title: GitHub Demo
+layout: demo
+title: Rising Sun
 ---
 
 # {{page.title}}
