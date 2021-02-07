@@ -7,9 +7,9 @@ Git is an open source distributed _version control system_ designed to handle sm
 
 **Main Terms**
 
-- Repository
+- [ ] Repository
   1. README file
-- Branches
+- [x] Branches
   1. Commit
   2. Pull request
   3. Clone
