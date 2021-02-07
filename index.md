@@ -8,14 +8,14 @@ Git is an open source distributed _version control system_ designed to handle sm
 **Main Terms**
 
 - Repository
-  [ ] README file
+  - [ ] README file
 - Branches
-  [x] Commit
-  [ ] Pull request
-  [x] Clone
-  [ ] Fork
-  [x] Push
-  [ ] Create personal access token
+  - [x] Commit
+  - [ ] Pull request
+  - [x] Clone
+  - [ ] Fork
+  - [x] Push
+  - [ ] Create personal access token
 
 Data file Contents:
 
